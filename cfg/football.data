@@ -1,0 +1,5 @@
+classes=2
+train  = data/football/train.txt
+valid  = data/football/test.txt
+names = data/football/labels.names
+backup = backup/
